@@ -2,11 +2,11 @@
 
 message = "I LOVE YOU GRANDMA!"
 def speak_to_grandma
-  if message 
+  if message
     puts "I LOVE YOU TOO PUMPKIN!"
-  elsif message == downcase 
+  elsif message == downcase
     puts "HUH? SPEAK UP, SONNY!"
-  end 
+  end
 end
 
 # x = 1
