@@ -1,19 +1,6 @@
 # Write a speak_to_grandma method.
-
-def speak_to_grandma
-  if "I LOVE YOU GRANDMA!"
-    puts "I LOVE YOU TOO PUMPKIN!"
-  end
-end
-
-# x = 1
-# if x > 2
-#    puts "x is greater than 2"
-# elsif x <= 2 and x!=0
-#    puts "x is 1"
-# else
-#    puts "I can't guess the number"
-# end
+def speak_to_grandma("I LOVE YOU GRANDMA!")
+end 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
