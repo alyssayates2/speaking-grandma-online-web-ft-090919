@@ -3,7 +3,9 @@ message = "I LOVE YOU GRANDMA!"
 def speak_to_grandma(message)
   if message == uppercase
     puts "I LOVE YOU TOO PUMPKIN!"
-  end 
+  else
+    puts "HUH?! SPEAK UP, SONNY!"
+  end
 end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
