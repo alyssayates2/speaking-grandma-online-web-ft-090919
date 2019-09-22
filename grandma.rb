@@ -4,9 +4,6 @@ def speak_to_grandma
   message = "I LOVE YOU GRANDMA!"
   if message
     puts "I LOVE YOU TOO PUMPKIN!"
-  elsif message == downcase
-    puts "HUH? SPEAK UP, SONNY!"
-  end
 end
 
 # x = 1
